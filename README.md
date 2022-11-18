@@ -1,3 +1,4 @@
 # MyPortfolio
 Here is the last task of TXON internship, which was on personal portfolio
-https://ks103.github.io/MyPortfolio/
+live demo
+:https://joyful-pudding-9f44ac.netlify.app/
